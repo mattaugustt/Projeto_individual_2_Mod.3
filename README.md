@@ -9,16 +9,16 @@ mataugusto1999@gmail.com <br>
 **O que devemos fazer?** <br>
 - Criar um banco de dados em SQL.<br>
 - Popular esse banco com dados fictícios de empresa.<br>
-- Responder as 4 perguntas feitas na proposta.<br><br>
+- Responder as 4 queries que são pedidas na proposta.<br><br>
 
 Arquivos e suas funções: <br>
 
 * Arquivo para a criação do banco: <br>banco_dados.sql. <br>
 * Arquivo para a inserção de dados: <br>inserts.sql. <br>
-* Arquivo para a leitura dos dados (onde iremos responder aos queries pedidos): <br>consultas.sql. 
+* Arquivo para a leitura dos dados (onde iremos responder às queries pedidas): <br>consultas.sql. 
 <br><br>
 
-**Queries pedidos:** <br>
+**Queries pedidas:** <br>
 + 1. Qual empresa utiliza o maior número de tecnologias na última pesquisa
 (2/2022)? <br><br>
 + 2. Qual empresa utilizava o menor número de tecnologias na pesquisa
@@ -28,7 +28,7 @@ atualmente? <br><br>
 + 4. Quantas empresas utilizam tecnologias que não são da área de
 “Dados” atualmente? <br><br>
 
-Respostas obitidas nas consultas: <br>
+Respostas obitidas nas consultas para cada query: <br>
 1a pergunta: Google -> 4. <br>
 2a pergunta: Americanas -> 1. <br>
 3a pergunta: Número de empresas = 2. <br>
