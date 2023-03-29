@@ -9,7 +9,9 @@ mataugusto1999@gmail.com <br>
 **O que devemos fazer?** <br>
 - Criar um banco de dados em SQL.<br>
 - Popular esse banco com dados fictícios de empresa.<br>
-- Responder as 4 perguntas feitas na proposta.<br>
+- Responder as 4 perguntas feitas na proposta.<br><br>
+
+Arquivos e suas funções: <br>
 
 * Arquivo para a criação do banco: <br>banco_dados.sql. <br>
 * Arquivo para a inserção de dados: <br>inserts.sql. <br>
