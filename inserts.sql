@@ -9,12 +9,12 @@ INSERT INTO empresa (id_empresa, nome, endereco, cnpj, telefone, email) VALUES
 
 -- Insert tecnologias:
 INSERT INTO tecnologia (id_tec, nome, descricao) VALUES
-(1, 'Excel', 'Dados em tabelas'),
-(2, 'PowerBi', 'Análise de dados'),
-(3, 'Tableau', 'Análise de dados'),
+(1, 'Excel', 'Dados'),
+(2, 'PowerBi', 'Dados'),
+(3, 'Tableau', 'Dados'),
 (4, 'Google EarthEngine', 'Análise de dados espaciais'),
 (5, 'Pyhton', 'Programação'),
-(6, 'SQL', 'Banco de dados'),
+(6, 'SQL', 'Dados'),
 (7, 'C++', 'Programação'),
 (8, 'JavaScript', 'Programação'),
 (9, 'Machine Learning', 'Aprendizado de maquina'),
